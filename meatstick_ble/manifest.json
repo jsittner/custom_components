@@ -1,0 +1,11 @@
+{
+  "domain": "meatstick_ble",
+  "name": "MeatStick BLE",
+  "version": "0.0.1",
+  "documentation": "local",
+  "requirements": [],
+  "dependencies": ["bluetooth_adapters"],
+  "codeowners": ["@your-github-or-name"],
+  "iot_class": "local_push",
+  "loggers": ["custom_components.meatstick_ble"]
+}
